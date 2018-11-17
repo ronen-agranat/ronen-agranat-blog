@@ -3,4 +3,5 @@
 
 # Build and deploy
 alias blogsync="JEKYLL_ENV=production bundle exec jekyll b && cd _site && aws s3 sync . s3://ronenagranat.com/ && cd -"
+alias bloglocal="bundle exec jekyll serve"
 
