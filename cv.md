@@ -59,7 +59,7 @@ People management &middot; Team leadership &middot; Project management &middot; 
 * Thesis: VHDL MIDI / audio device
 * 3 years on Dean's Merit List; Engineering & Built Environment faculty scholarship
 * Winner South African Google Gadget competition for university
-* Computer science tutor for C++ and grant project team lead
+* Computer science certificate of merit; tutor for C++ and grant project team lead
 * Class medal for African Studies
 
 ### Abbotts College Milnerton: Matriculation (Endorsement/Distinction)
@@ -70,7 +70,7 @@ People management &middot; Team leadership &middot; Project management &middot; 
 
 ## Skills
 
-Python &middot; Ruby &middot; Rails &middot; Java &middot; MySQL &middot; Perl &middot; JavaScript &middot; C &middot; C++ &middot; Selenium &middot; AWS &middot; DynamoDB &middot; HTML &middot; CSS &middot; VHDL &middot; Matlab &middot; Protobuf &middot; jQuery &middot; Linux &middot; Qt &middot; Swing &middot; STL &middot; Git &middot; GitHub &middot; GitLab &middot; Cassandra &middot; ECMAScript &middot; REST &middot; HTTP &middot; TCP/IP &middot; DNS &middot; Spring &middot; Hive &middot; Hadoop &middot; Jupyter &middot; DOM
+Python &middot; Ruby &middot; Rails &middot; Java &middot; MySQL &middot; Perl &middot; JavaScript &middot; C &middot; C++ &middot; Selenium &middot; AWS &middot; DynamoDB &middot; HTML &middot; CSS &middot; VHDL &middot; Matlab &middot; Protobuf &middot; jQuery &middot; Linux &middot; Qt &middot; Swing &middot; STL &middot; Git &middot; GitHub &middot; GitLab &middot; Cassandra &middot; ECMAScript &middot; REST &middot; HTTP &middot; TCP/IP &middot; DNS &middot; Spring &middot; Hive &middot; Hadoop &middot; Jupyter &middot; PHP
 
 ## Hobbies and interests
 
