@@ -4,14 +4,14 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-| -------------- | ------------------------- |
-| **Name**           | Ronen Dov Agranat         |
-| **Email**          | ronen.agranat@gmail.com   |
-| **Date of birth**  | 2 February 1987           |
-| **Visa**      | Dutch highly-skilled visa |
-| **Nationality**    | South African             |
-| **Languages**      | English, Dutch (intermediate)            |
-| **Driver's license** | Yes                     |
+|---------------------:|-------------------------------|
+| **Name**             | Ronen Dov Agranat             |
+| **Email**            | ronen.agranat@gmail.com       |
+| **Date of birth**    | 2 February 1987               |
+| **Visa**             | Dutch highly-skilled visa     |
+| **Nationality**      | South African                 |
+| **Languages**        | English, Dutch (intermediate) |
+| **Driver's license** | Yes                           |
 
 People management &middot; Team leadership &middot; Project management &middot; Full stack &middot; Solution architecture &middot; Cloud computing &middot; Agile software development &middot; Extreme programming &middot; Service-orientated architecture (SOA) &middot; Devops &middot; Microservices &middot; Mentoring &middot; Coaching &middot; Facilitation
 
@@ -23,7 +23,7 @@ People management &middot; Team leadership &middot; Project management &middot; 
 
 * Owned, developed & maintained primary customer support tooling, as used by agents to help customers with 1.5 million room nights booked daily
 * Overhauled tooling to support arbitrary new product types, with 3 new product integrations
- 
+
 ### Jumo: Software developer
 
 *Sep 2015 - Sep 2016*
@@ -70,7 +70,13 @@ People management &middot; Team leadership &middot; Project management &middot; 
 
 ## Skills
 
-Python &middot; Ruby &middot; Rails &middot; Java &middot; MySQL &middot; Perl &middot; JavaScript &middot; C &middot; C++ &middot; Selenium &middot; AWS &middot; DynamoDB &middot; HTML &middot; CSS &middot; VHDL &middot; Matlab &middot; Protobuf &middot; jQuery &middot; Linux &middot; Qt &middot; Swing &middot; STL &middot; Git &middot; GitHub &middot; GitLab &middot; Cassandra &middot; ECMAScript &middot; REST &middot; HTTP &middot; TCP/IP &middot; DNS &middot; Spring &middot; Hive &middot; Hadoop &middot; Jupyter &middot; PHP
+Python &middot; Ruby &middot; Rails &middot; Java &middot; MySQL &middot; Perl &middot;
+JavaScript &middot; C &middot; C++ &middot; Selenium &middot; AWS &middot; DynamoDB &middot;
+HTML &middot; CSS &middot; VHDL &middot; Matlab &middot; Protobuf &middot; jQuery &middot;
+Linux &middot; Qt &middot; Swing &middot; STL &middot; Git &middot; GitHub &middot;
+GitLab &middot; Cassandra &middot; ECMAScript &middot; REST &middot; HTTP &middot;
+TCP/IP &middot; DNS &middot; Spring &middot; Hive &middot; Hadoop &middot;
+Jupyter &middot; PHP &middot; bash &middot; zsh &middot; Raspi &middot; arduino
 
 ## Hobbies and interests
 
