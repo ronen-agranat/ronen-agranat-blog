@@ -1,15 +1,11 @@
 ---
 layout: post
 title:  "Breaking the Monolith"
-date:   2018-11-07 08:05:00 +0100
+date:   2016-05-31 08:05:00 +0100
 categories: microservice architecture soa
 ---
 
 ## Migrating to Micro-Services at Jumo
-
-*This is a republishing of an article originally published on [Medium](https://medium.com/@capetowndev/breaking-the-monolith-72d4944e4d54) on May 31, 2016.*
-
-The dream of migrating a legacy system to a micro-service architecture borders on fantasy, oft portrayed as it is in blogs and podcasts as the holy grail of software engineering, sought by enthusiastic and sometimes over-ambitious development teams from dorm rooms to corporate behemoths, often with mixed results. So what can you do to maximise success of your own micro-services migration?
 
 <!--more-->
 
@@ -93,4 +89,3 @@ We performed some migrations by replacing method calls with HTTP requests to mic
 
 ## Conclusion
 Micro-service architecture is a powerful design philosophy when approached correctly. However, getting it wrong can be painful indeed. In particular, the same team who created the monolithic system is unlikely to be in a position to migrate it to micro-services successfully. To paraphrase an old saying: *A monolithic application makes it easy to shoot yourself in the foot. Using micro-services makes it harder; but if you do, you blow off your whole leg.*
-
