@@ -4,9 +4,6 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-A list and short description of some of my own projects that I have worked on over the years.
-These are projects that I look back upon fondly and that have a special place in my heart.
-
 ## Lions head view
 
 *2015*
