@@ -41,7 +41,7 @@ People management &middot; Team leadership &middot; Project management &middot; 
 * Designed and implemented automated testing solution for the EC2 and VPC public user interfaces comprising more than 120 test cases running hourly against production
 * Involved in more than 80 interview loops
 
-## Patents & patents pending
+## Patents
 
 | Code | Title |
 | --------------- | -------------------------------------------------- |
