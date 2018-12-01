@@ -26,33 +26,22 @@ when pressed, and to exit 'Insert' mode when depressed.
 
 Tags: arduino vim electronics linux C++
 
-## VAD: VHDL audio device
+## Howzit Instant Messenger (howzit.im)
 
-*2010*
+I created a web-based client for the MXit instant messaging platform. It made use
+of the proprietary MXit API, which was a text API with an embedded binary API. It
+enabled users to create new accounts, or log in with their existing accounts, then proceed
+to chat or interact with their contacts via a web user-interface.
 
-My undegraduate thesis describes how to create a general-purpose audio device using VHDL and a Xilinx FPGA.
-It's a great introduction to VHDL and the Xilinx tool chain.
-Features include multi-channel audio input/output, MIDI file synthesis and audio recording and playback.
-This project is an ideal audio prototyping framework for the Digilent Nexys2 FPGA evaluation board.
+howzit.im supported Google Talk, Facebook Messenger, MSN messenger and a wide variety
+of other messaging integrations, by virtue of MXit's support for these integrations.
+Therefore it functioned as 'super' instant messenger, supporting all the users'
+messenger accounts across various platforms.
 
-The hardware is defined as VHDL which is implemented on the FPGA, which then runs
-the software defined in C++ on the soft core processor. This board interfaced
-with various electronic hardware devices which were assembled or which were available
-as part of the Xilinx kit.
+howzit.im had more than 2000 active users. It was implemented in PHP, Node.js,
+JavaScript, jQuery and jQuery UI.
 
-The toolchain for placing MIDI and audio onto the device, as well as for analysing
-the performance of the device, included Matlab and Python.
-
-This fourth-year electrical and computer engineering thesis project details the design and implementation of a general purpose audio device on a Digilent Nexys2 evaluation board, supporting 44.1 KHz 12-bit audio monitoring and playback with 53 seconds of recording time.
-The emphasis of the project is on digital logic, VHDL and FPGA’s.
-Five track MIDI files can be played, with two polyphonic tracks and a drum track.
-The musical notes are synthesised by waveform generators implemented in the hardware domain.
-These oscillators are controlled by a software application running on the Microblaze soft core.
-The device makes use of external ADC and DAC chips to interact with analogue audio signals.
-The project is implemented using Xilinx Embedded Development Kit (EDK) 12.2.
-The functional and performance characteristics of the device are investigated with a series of experiments which verify the prototype’s functionality.
-
-Tags: hardware matlab midi audio recording playback vhdl fpga python xilinx speaker microphone electronics
+Tags: im mxit jquery javascript php
 
 ## Eighty20 fact-of-the-day Facebook app
 
@@ -136,6 +125,17 @@ The camera sits near the middle of the hemisphere.
 This was our annual project for second-year computer science (C++).
 
 Tags: 3d opengl ui perlinnoise c++ texture games linux
+
+## Facebook chat client
+
+Two friends and I spent one week programming a chat client for Facebook.
+It was based on Jabber/XMPP.
+The idea was to have a chat client that enabled easy instant messaging to
+one's Facebook friends. This was prior to the release of Facebook Messenger.
+The chat client was programmed in Java and was compatible with the official open-source
+XMPP server.
+
+Tags: xmpp java facebook
 
 ## UpPhoto
 
