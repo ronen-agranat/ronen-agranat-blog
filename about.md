@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm a software developer & people manager with international experience
-who has worked for two of the world's three largest ecommerce companies.
+Full stack software developer and team lead at Booking.com • 4.5 years at Amazon AWS EC2 • 1 year at mobile money micro-loan startup #ruby #python #javascript
