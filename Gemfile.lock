@@ -1,7 +1,7 @@
 PATH
-  remote: /Users/ragranat/personal/minima
+  remote: /Users/ragranat/personal/minimus
   specs:
-    minima (2.5.0)
+    minimus (0.1)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
@@ -71,7 +71,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
-  minima!
+  minimus!
   tzinfo-data
 
 BUNDLED WITH
