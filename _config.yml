@@ -53,7 +53,9 @@ permalink: /:year-:month-:day/:title:output_ext
 
 google_analytics: UA-129309201-1
 
+# miniscule settings
 show_twitter_feed: true
+cover_image: assets/images/background.jpg
 
 # show_excerpts: true
 # excerpt_separator: <!--more-->
