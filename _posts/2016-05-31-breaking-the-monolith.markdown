@@ -29,13 +29,13 @@ Micro-services is an approach to system architecture arising from the convergenc
 
 This combination of technologies enables the creation of granular micro-services that can be said to be responsible for a single domain of the business. They aim to solve that area of business, serving as a *one-stop shop* for features and enhancements related to that domain. Business staff imagine it as a *black box* that runs autonomously, performing their whims and *taking care of* that part of the business.
 
-# What are some advantages of micro-services?
+## What are some advantages of micro-services?
 - **System design is simplified** because it’s easier to discuss and reason about a service responsible for a single business domain.
 - **Implementing changes is easier** because the scope of each service is limited.
 - **Blast radius is limited** in the event of an infrastructure outage because each micro-service is hosted on separate hardware and each client can define explicit fail-open or -closed semantics.
 - Services can be **administered and scaled independently**, in response to customer, business or engineering needs.
 
-# How we positioned ourselves for micro-services migration
+## How we positioned ourselves for micro-services migration
 We identified a **critical path** in the system that brings in money for the business, undergoes frequent changes, is a source of bugs, causes confusion and incurs operational overhead. The case at hand: *We need to improve and streamline the subsystems that control how much money we can offer to loan to a given customer*.
 
 We developed a **common vision** in collaboration with business as to how that critical path would look in the context of micro-services. A series of brain-storming sessions were held with stakeholders across departments with the purpose being to draw a 50-kilometre-view architecture diagram.

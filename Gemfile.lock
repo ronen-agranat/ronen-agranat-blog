@@ -1,8 +1,7 @@
-GIT
-  remote: git://github.com/ronen-agranat/miniscule.git
-  revision: 593f740bb91cf9e90a2735a1dd60f710ba8d13e3
+PATH
+  remote: ../miniscule
   specs:
-    miniscule (0.1.1)
+    miniscule (0.1.3)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
