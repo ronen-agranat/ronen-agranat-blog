@@ -5,17 +5,15 @@ date:   2016-05-31 08:05:00 +0100
 categories: microservice architecture soa
 ---
 
+
 ## Migrating to Micro-Services at Jumo
+
+In this article, I’ll discuss some of the approaches and technologies we used at [Jumo](https://jumo.world) to turn our legacy, monolithic mobile money loan system into an ecosystem of micro-services.
 
 <!--more-->
 
-In this article, I’ll discuss some of the approaches and technologies we used at [Jumo](https://jumo.world) to turn our legacy mobile money loan system into an ecosystem of micro-services.
-
-Jumo offers loans to more than 5 million customers in Africa based on their mobile phone usage.
-The money is paid and re-paid into their mobile money wallets, which are associated with their SIM cards.
-At the stage this article was written, turnover was more than 10 million USD per month.
-The area of the business being discussed here (core) is primarily Ruby on Rails on Heroku and AWS.
-The engineering team (core) at the time comprised 5 - 10 engineers.
+![Monolith](/assets/images/monolith.jpg)
+*Developers cautiously approach a monolithic application (2001: A Space Odyssey)*
 
 ## What makes a micro-service?
 Micro-services is an approach to system architecture arising from the convergence of several technologies:
@@ -34,6 +32,9 @@ This combination of technologies enables the creation of granular micro-services
 - **Implementing changes is easier** because the scope of each service is limited.
 - **Blast radius is limited** in the event of an infrastructure outage because each micro-service is hosted on separate hardware and each client can define explicit fail-open or -closed semantics.
 - Services can be **administered and scaled independently**, in response to customer, business or engineering needs.
+
+![Migrating to Micro-services](/assets/images/migrating_to_microservices.png)
+*Developers migrating to micro-services - (classicprogrammerpaintings.com)*
 
 ## How we positioned ourselves for micro-services migration
 We identified a **critical path** in the system that brings in money for the business, undergoes frequent changes, is a source of bugs, causes confusion and incurs operational overhead. The case at hand: *We need to improve and streamline the subsystems that control how much money we can offer to loan to a given customer*.
@@ -89,3 +90,9 @@ We performed some migrations by replacing method calls with HTTP requests to mic
 
 ## Conclusion
 Micro-service architecture is a powerful design philosophy when approached correctly. However, getting it wrong can be painful indeed. In particular, the same team who created the monolithic system is unlikely to be in a position to migrate it to micro-services successfully. To paraphrase an old saying: *A monolithic application makes it easy to shoot yourself in the foot. Using micro-services makes it harder; but if you do, you blow off your whole leg.*
+
+_Jumo offers loans to more than 5 million customers in Africa based on their mobile phone usage.
+The money is paid and re-paid into their mobile money wallets, which are associated with their SIM cards.
+At the stage this article was written, turnover was more than 10 million USD per month.
+The area of the business being discussed here (core) is primarily Ruby on Rails on Heroku and AWS.
+The engineering team (core) at the time comprised 5 - 10 engineers._
