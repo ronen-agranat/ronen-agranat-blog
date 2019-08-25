@@ -54,9 +54,9 @@ permalink: /:year-:month-:day/:title:output_ext
 google_analytics: UA-129309201-1
 
 # miniscule settings
-show_twitter_feed: true
+show_twitter_feed: false
 cover_image: assets/images/background.jpg
-show_fork_me: false
+show_fork_me: true
 fork_me_url: https://github.com/ronen-agranat/miniscule
 
 minima:
