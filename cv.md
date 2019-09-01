@@ -19,10 +19,33 @@ People management &middot; Team leadership &middot; Project management &middot; 
 
 ### Booking.com: Full stack software developer and team lead
 
-*Nov 2016 - Current*
+**Nov 2018 - Current**
 
-* Owned, developed & maintained primary customer support tooling, as used by agents to help customers with 1.5 million room nights booked daily
-* Overhauled tooling to support arbitrary new product types, with 3 new product integrations
+**TODO**
+
+**Feb 2017 - Nov 2018**
+
+* *Department*: Customer Service tech & product
+* *Product*: TED, internal customer support platform
+* *Role*: Full-stack developer & team lead
+* *Responsibilities*:
+People manager for 8 reports including front-end developers, back-end developers, data scientists, and designers.
+ Owned and maintain primary pages and tooling on company-wide internal customer support software
+used by ~10,000 customer service agents daily. Developed and maintained internal tooling for GDPR and associated operations.
+Owned software and infrastructure for displaying sensitive credit card information.
+Revamp customer service systems to support new product types and business verticals. Front-end and back-end developlment.
+* *Achievements*: Developed & launched customer-centric page and ticketing; developed and launched Search page
+for new products and business verticals. Integrated 3 new products: Attractions, Ground Transport and Booking Basic.
+Defined technology strategy to implement the above work with common platform and approach of generalising existing functionality
+within the tool. Handled 2 re-integration cases. 2 reports promoted. Led second team of 2 new hires.
+
+**Nov 2016**
+
+* *Department*: New Partnerships
+* *Product*: join.booking.com partner sign-up funnel
+* *Role*: Back-end developer
+* *Responsibilities*: Run experiments in A/B testing tool to optimise partner sign-up funnel.
+* *Achievements*: Helped Booking.com achieve company-wide goal of signing up 1.5 million accommodation partners
 
 ### Jumo: Software developer
 
@@ -31,7 +54,7 @@ People management &middot; Team leadership &middot; Project management &middot; 
 * Developing, maintaining and operating core loans system, including disbursal and collection, lifecycle progression, accounting, messaging and internal tooling, with a customer base of more than 5 million people and monthly turnover of more than 10 million USD
 * Desiged, implemented and integrated subsystems for: calculating loan terms and offers, managing fraud, handling know-your-customer data
 
-### Amazon Web Services Elastic Compute Cloud: Software development engineer
+### Amazon AWS EC2: Software development engineer
 
 *May 2011 - Sep 2015*
 
