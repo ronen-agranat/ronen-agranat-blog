@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ronen Agranat - CV
+title: CV
 permalink: /cv/
 ---
 
