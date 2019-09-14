@@ -1,7 +1,7 @@
 PATH
   remote: ../miniscule
   specs:
-    miniscule (0.1.6)
+    miniscule (0.1.8)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)

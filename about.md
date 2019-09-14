@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-**Hi! My name is Ronen Agranat. Welcome to my personal blog and website!**
+**Hi! My name is Ronen Agranat.**
+I'm a software engineer and people manager from Cape Town, South Africa.
+Welcome to my professional home on the web, where I post
+my first-hand experiences, stories and lessons learnt,
+in order to share knowledge, help others and have great conversations.
 
 ### What's on this website?
 On my website, you can find out a whole lot about me: my CV, my blog articles, descriptions of projects I've worked on,
