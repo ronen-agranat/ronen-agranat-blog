@@ -9,7 +9,7 @@ permalink: /cv/
 | **Email**            | ronen.agranat@gmail.com       |
 | **Date of birth**    | 2 February 1987               |
 | **Residence**        | Amsterdam, The Netherlands        |
-| **Languages**        | English, Dutch (A2), Afrikaans (second language) |
+| **Languages**        | English, Dutch (A2), Afrikaans (2<sup>nd</sup> language) |
 | **Visa**             | Dutch highly-skilled visa     |
 | **Nationality**      | South African                 |
 | **Driving license** | Dutch                           |
@@ -122,14 +122,13 @@ lifecycle progression, accounting, messaging and internal tooling, with a custom
 
 ## Patents
 
-| Code | Title |
 | --------------- | -------------------------------------------------- |
-| US20140188815A1 | Annotation of Resources in a Distributed Execution Environment  (pending) |
-| US9178867B1 | Interacting with restricted environments |
-| US9647896B1 | Rule-based actions for resources in a distributed execution environment |
-| US9313208B1 | Managing restricted access resources |
-| US9473799B1 | Resource data query processing |
-| US9455879B1 | Validating changes to attributes for computing resources |
+| Interacting with restricted environments | US9178867B1 |
+| Rule-based actions for resources in a distributed execution environment | US9647896B1 |
+| Managing restricted access resources | US9313208B1 |
+| Resource data query processing | US9473799B1 |
+| Validating changes to attributes for computing resources | US9455879B1 |
+| Annotation of Resources in a Distributed Execution Environment  (pending) | US20140188815A1 |
 
 ## Skills
 
