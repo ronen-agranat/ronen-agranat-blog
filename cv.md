@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+display_title: Curriculum Vitae - Ronen Agranat
 permalink: /cv/
 ---
 
@@ -188,7 +189,7 @@ lifecycle progression, accounting, messaging and internal tooling, with a custom
 
 ## Education
 
-### University of Cape Town: Bachelors of Science in Engineering in Electrical & Computer Engineering (Honours)
+#### University of Cape Town: Bachelors of Science in Engineering in Electrical & Computer Engineering (Honours)
 *Jan 2007 - Dec 2010*
 * Thesis: VHDL MIDI / audio device
 * 3 years on Dean's Merit List; Engineering & Built Environment faculty scholarship
@@ -196,7 +197,7 @@ lifecycle progression, accounting, messaging and internal tooling, with a custom
 * Computer science certificate of merit; tutor for C++ and grant project team lead
 * Class medal for African Studies
 
-### Abbotts College Milnerton: Matriculation (Endorsement/Distinction)
+#### Abbotts College Milnerton: Matriculation (Endorsement/Distinction)
 *Jan 2006 - Dec 2006*
 
 * First in college (Dux medal)
