@@ -24,7 +24,7 @@ permalink: /cv/
     * User-generated content experience on Booking.com: photo's and reviews
     * Booking Engine: direct channel conversion funnel for partners' custom websites
 * **Responsibilities**:
-    * Managed of 2 teams totalling 11 direct reports, including developers, data scientists, copywriters,
+    * Managed 2 teams of 11 direct reports, including developers, data scientists, copywriters,
     quality specialists and designers; 4 of whom senior.
 * **Achievements**:
     * Facilitated merger of BookingSuite Web Family into Accommodations Business Unit
@@ -42,37 +42,36 @@ permalink: /cv/
     * Owned externally-facing BookingButton product end-to-end
     * Optimised Booking Engine using A/B experimentation.
 * **Achievements**:
-    * Defined technology strategy and road-map for Web Family
-    * 2 direct reports promoted to senior
     * Launched BookingButton product, growing to > 10K accommodation partners over 6 months,
     with revenue > 220K EUR p/m.
-React, MySQL, new product development, A/B testing, DevOps, conversion funnel
+    * Defined technology strategy and road-map for Web Family
+    * 2 direct reports promoted to senior
 
 *Feb 2017 - Nov 2018*:
 
-* **Department**: Customer Support tech & product
+* **Department**: Customer service tech & product
 * **Ownership area**:
     * Primary internal web application for customer service agents
-    * Company-wide GDPR tooling
+    * Application for showing secure credit card information
+    * GDPR for customer service
+    * Tooling for internal users to manage text snippets
 * **Responsibilities**:
     * Managed 5 direct reports, including developers, data scientists and designers; 1 senior.
     * Integrated new products and business verticals into existing customer support tooling
-    * Implemented GDPR
+    * Maintained application for secure credit card information
 * **Achievements**:
-    * 2 direct reports promoted, one to senior, one to lead
-     Integrated 3 new products into customer support tooling
-    * Defined technology strategy for integrating new products
     * Launched customer page and multi-product search
-    * Supported second team of 2 new hires to revamp internal Chrome web extension
-    * Onboarded product manager
+    * Integrated 3 new products into customer support tooling
+    * Defined technology strategy for integrating new products
+    * 2 reports promoted, one to senior, one to lead
+    * Supported second team of 2 new hires
 
-*Nov 2016 - Feb 2017*: Software developer
+*Dec 2016 - Feb 2017*: Software developer
 
 * **Department**: New Partnerships
-* **Product**: join.booking.com partner sign-up funnel
+* **Ownership area**: join.booking.com partner sign-up funnel
 * **Responsibilities**: Optimise partner sign-up funnel using A/B experimentation
-* **Achievements**: Helped achieve company-wide goal of acquiring 1.5m accommodation partners
-* **Skills**: A/B testing, Perl, JavaScript, jQuery, MySQL, conversion funnel
+* **Achievements**: Helped company achieve goal of acquiring 1.5m accommodation partners
 
 ## Jumo: Software developer
 
@@ -84,7 +83,7 @@ React, MySQL, new product development, A/B testing, DevOps, conversion funnel
 * **Responsibilities**: Developing, maintaining and operating core loans system, including disbursal and collection,
 lifecycle progression, accounting, messaging and internal tooling, with a customer base of more than 5 million people
 * **Achievements**:
-    * Helped achieve company-wide goal of disbursing > 10m USD p/m
+    * Helped company achieve goal of disbursing > 10m USD p/m
     * Implemented asynchronous Ruby on Rails framework for arbitrary financial products
     * Led team to deliver first savings product
 
@@ -93,7 +92,7 @@ lifecycle progression, accounting, messaging and internal tooling, with a custom
 *Jan 2012 - Sep 2015*: Software development engineer
 
 * **Department**: Amazon Web Services (AWS) Elastic Compute Cloud (EC2)
-* **Products**:
+* **Ownership area**:
     * Primary internal web application for administrating EC2 data-centres
     * Management Information System for EC2 and data-centre infrastructure
     * Web application for managing internal service configuration across data-centres
@@ -101,17 +100,17 @@ lifecycle progression, accounting, messaging and internal tooling, with a custom
     * Service for scheduled maintenance of fixed hosts
 * **Responsibilities**:
     * Developed and maintained internal tooling for Amazon's EC2 data-centres in > 15 regions globally
-    * Administrated 2 high-security regions
+    * Administrated in 2 high-security regions
     * Built and maintained fleet of > 600 database hosts
     * Rotating on-call and DevOps
 * **Achievements**:
-    * Inventor on 6 patents and patents-pending
+    * Co-inventor on 5 patents
     * Built-out tooling for Frankfurt region
     * Interviewer in > 80 interview loops
 
 *May 2011 - Jan 2012*: Software development engineer - testing
 
-* **Products**:
+* **Ownership area**:
     * Public-facing EC2 and VPC management console web applications (console.aws.amazon.com), Java libraries and
     command-line tools
 * **Responsibilities**:
@@ -119,7 +118,7 @@ lifecycle progression, accounting, messaging and internal tooling, with a custom
     * Implementing automated tests for new and existing functionality
 * **Achievements**:
     * Designed and implemented automated testing framework with web UI, CI integration, monitoring and alerting
-    * Implemented > 120 test cases covering majority of EC2 and VPC management consoles
+    * Implemented > 120 test cases covering majority of EC2 and VPC management consoles web UI
 
 ## Patents
 
@@ -129,7 +128,6 @@ lifecycle progression, accounting, messaging and internal tooling, with a custom
 | Managing restricted access resources | US9313208B1 |
 | Resource data query processing | US9473799B1 |
 | Validating changes to attributes for computing resources | US9455879B1 |
-| Annotation of Resources in a Distributed Execution Environment  (pending) | US20140188815A1 |
 
 ## Skills
 
