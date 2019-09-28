@@ -82,15 +82,13 @@ permalink: /cv/
     * Linked to customers' virtual wallets via their mobile network accounts
 * **Ownership area**:
     * Core loan system
-    * Credit score decision management system
+    * Credit scoring service and web UI
     * Know-your-customer service
     * Internal administrative tooling
 * **Responsibilities**:
     * Maintained and developed core loans system, including disbursal and collection,
     lifecycle progression, accounting, and internal tooling
     * DevOps and on-call rotation
-* **Achievements**:
-    * Led initiative to drive down problem loans
 
 ## Amazon.com: Software development engineer
 
