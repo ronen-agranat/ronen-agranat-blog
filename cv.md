@@ -117,11 +117,11 @@ permalink: /cv/
     * Public-facing EC2 and VPC management console web applications (console.aws.amazon.com), Java libraries and
     command-line tools
 * **Responsibilities**:
-    * Exploratory manual testing and  new and existing functionality
-    * Implementing automated tests for new and existing functionality
+    * Implemented automated test cases for public-facing EC2 and VPC management consoles
+    * Designed and implemented automated testing framework
+    * Worked with developers to define test plans
 * **Achievements**:
-    * Designed and implemented automated testing framework with web UI, CI integration, monitoring and alerting
-    * Implemented > 120 test cases covering majority of EC2 and VPC management consoles web UI
+    * Implemented > 120 test cases covering EC2 and VPC management consoles web UI
 
 ## Patents
 
