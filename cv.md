@@ -13,7 +13,7 @@ permalink: /cv/
 | **Languages**        | English, Dutch (A2), Afrikaans (2<sup>nd</sup> language) |
 | **Visa**             | Dutch highly-skilled visa     |
 | **Nationality**      | South African                 |
-| **Driving license** | Dutch                           |
+| **Driving license** | Yes                           |
 
 ## Booking.com: Full-stack software developer & team lead
 
@@ -32,7 +32,7 @@ permalink: /cv/
 
 *Nov 2018 - Aug 2019*:
 
-* **Department**: Web Family (BookingSuite)
+* **Department**: BookingSuite Web Family
 * **Ownership area**:
     * Booking Engine: direct channel conversion funnel for partners' custom websites;
     * BookingButton: 'Book Now' button with subscription revenue model and social media integration;
@@ -44,7 +44,7 @@ permalink: /cv/
 * **Achievements**:
     * Launched BookingButton product, growing to > 10K accommodation partners over 6 months,
     with revenue > 220K EUR p/m.
-    * Defined technology strategy and road-map for Web Family
+    * Defined technology strategy and road-map for area
     * 2 direct reports promoted to senior
 
 *Feb 2017 - Nov 2018*:
@@ -53,39 +53,44 @@ permalink: /cv/
 * **Ownership area**:
     * Primary internal web application for customer service agents
     * Application for showing secure credit card information
-    * GDPR for customer service
-    * Tooling for internal users to manage text snippets
+    * GDPR tooling for customer service
 * **Responsibilities**:
     * Managed 5 direct reports, including developers, data scientists and designers; 1 senior.
+    * Supported second team of 2 newly-hired developers
     * Integrated new products and business verticals into existing customer support tooling
-    * Maintained application for secure credit card information
 * **Achievements**:
-    * Launched customer page and multi-product search
-    * Integrated 3 new products into customer support tooling
+    * Launched customer page and multi-product search internal tooling
+    * Integrated 3 new products and business verticals into customer support tooling
     * Defined technology strategy for integrating new products
     * 2 reports promoted, one to senior, one to lead
-    * Supported second team of 2 new hires
+    * Managed 1 re-integration case
 
 *Dec 2016 - Feb 2017*: Software developer
 
 * **Department**: New Partnerships
 * **Ownership area**: join.booking.com partner sign-up funnel
 * **Responsibilities**: Optimise partner sign-up funnel using A/B experimentation
-* **Achievements**: Helped company achieve goal of acquiring 1.5m accommodation partners
 
 ## Jumo: Software developer
 
 *Sep 2015 - Sep 2016*
 
-* **Role**: Software developer 
-* **Department**: Core Engineering team
-* **Product**: Mobile money micro-loan system
-* **Responsibilities**: Developing, maintaining and operating core loans system, including disbursal and collection,
-lifecycle progression, accounting, messaging and internal tooling, with a customer base of more than 5 million people
+* **Department**: Engineering
+* **Description**:
+    * Mobile-money start-up providing micro-loan financing to > 5m customers in countries throughout Africa
+    * White-label financial products integrated with mobile network operators
+    * Linked to customers' virtual wallets via their mobile network accounts
+* **Ownership area**:
+    * Core loan system
+    * Credit score decision management system
+    * Know-your-customer service
+    * Internal administrative tooling
+* **Responsibilities**:
+    * Maintained and developed core loans system, including disbursal and collection,
+    lifecycle progression, accounting, and internal tooling
+    * DevOps and on-call rotation
 * **Achievements**:
-    * Helped company achieve goal of disbursing > 10m USD p/m
-    * Implemented asynchronous Ruby on Rails framework for arbitrary financial products
-    * Led team to deliver first savings product
+    * Led initiative to drive down problem loans
 
 ## Amazon.com: Software development engineer
 
@@ -99,8 +104,8 @@ lifecycle progression, accounting, messaging and internal tooling, with a custom
     * Service for publishing EC2 infrastructure information to S3
     * Service for scheduled maintenance of fixed hosts
 * **Responsibilities**:
-    * Developed and maintained internal tooling for Amazon's EC2 data-centres in > 15 regions globally
-    * Administrated in 2 high-security regions
+    * Developed and maintained internal tooling for Amazon's EC2 data-centres in > 15 regions globally including
+    2 high-security regions
     * Built and maintained fleet of > 600 database hosts
     * Rotating on-call and DevOps
 * **Achievements**:
