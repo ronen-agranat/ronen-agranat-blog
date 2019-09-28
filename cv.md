@@ -27,7 +27,7 @@ permalink: /cv/
     * Managed 2 teams of 11 direct reports, including developers, data scientists, copywriters,
     quality specialists and designers; 4 of whom senior.
 * **Achievements**:
-    * Facilitated merger of BookingSuite Web Family into Accommodations Business Unit
+    * Facilitated re-organisation of BookingSuite Web Family into Accommodations Business Unit
     * Managed 1 re-integration case
 
 *Nov 2018 - Aug 2019*:
@@ -137,6 +137,9 @@ permalink: /cv/
 <span class="badge">People management</span>
 <span class="badge">Leadership</span>
 <span class="badge">Project management</span>
+<span class="badge">Change management</span>
+<span class="badge">Facilitation</span>
+<span class="badge">Vision-setting</span>
 <!-- -->
 <span class="badge">Cloud computing</span>
 <span class="badge">Amazon Web Services (AWS)</span>
@@ -169,7 +172,7 @@ permalink: /cv/
 <span class="badge">TestNG</span>
 <span class="badge">rspec</span>
 <!-- -->
-<span class="badge">Agile</span>
+<span class="badge">Agile methodologies</span>
 <span class="badge">Jira</span>
 <span class="badge">Trello</span>
 <span class="badge">Scrum</span>
@@ -206,4 +209,4 @@ permalink: /cv/
 
 ## Hobbies and interests
 
-Musician &middot; Travel &middot; Food &middot; Fitness &middot; Nature
+* Musician: bass guitar; played in bands in many genres including jazz, classical, pop and rock
