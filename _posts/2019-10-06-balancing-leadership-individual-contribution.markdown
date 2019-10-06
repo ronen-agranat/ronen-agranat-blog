@@ -65,7 +65,7 @@ When I became a manager, I gained a second team that is actually my *first* team
 
 * My boss; for example: head of division
 * My peers; for example: other technical people managers
-* My counterparts; for example: product managers, principals.
+* My counterparts; for example: product managers, principals
 
 In the context of my *first* team, I learned that I am representing no longer just myself, but my entire team as an extension of myself. Within the team, I learned that I am no longer representing a single contributor, but the extension of the entire leadership function into the team.
 
