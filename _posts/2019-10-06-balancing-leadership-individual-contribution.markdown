@@ -2,6 +2,7 @@
 layout: post
 title:  "Balancing Leadership and Individual Contribution"
 date:   2019-10-06 14:36:00 +0100
+published: false
 categories: management leadership people
 ---
 
