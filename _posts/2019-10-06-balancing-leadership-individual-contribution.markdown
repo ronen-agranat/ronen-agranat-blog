@@ -20,7 +20,7 @@ A mistake I made early on is not delegating enough. I felt a sense of responsibi
 * Every plan being proposed
 * Every task on the Agile board.
 
-When new work was asked of my team, I felt a strong desire to 'protect' the team from distractions, context-switching or emergency work. Often, I would pick this work up myself. In this time when I was supposed to be pivoting my attention more towards people, strategy and organisational concerns, I was paradoxically pulling myself ever-deeper into routine, business-as-usual software development tasks.
+When new work was asked of my team, I felt a strong desire to 'protect' the team from distractions, context-switching or emergency work. I would often pick this work up myself. In this time when I was supposed to be pivoting my attention more towards people and strategy, I was pulling myself further into routine development tasks.
 
 In addition, I was occupied with trying to influence other teams in the area to adopt a common technology strategy, and had become immersed in defining the product direction and managing stakeholders, such as operational teams, new product development and analytics.
 
