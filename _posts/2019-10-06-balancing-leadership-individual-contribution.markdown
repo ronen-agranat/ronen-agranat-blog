@@ -1,86 +1,86 @@
 ---
 layout: post
-title:  "Balancing Leadership and Individual Contribution"
+title:  "How I got serious about delegating"
 date:   2019-10-06 14:36:00 +0100
 published: false
 categories: management leadership people
 ---
 
-Aspiring leaders often ask me:
+Stepping up to the leadership plate can be daunting. A common challenge new leaders face is balancing their existing duties with the additional responsibilities of management. A question I’m often asked by new managers is "How do I balance managing a team with my responsibilities as an individual contributor?"
 
-> How do I balance managing a team with my responsibilities as an individual contributor?
+When I was first stepping up into a management role, my boss advised me safely that balance and time management are paramount: How to get everything done in the increasingly limited amount of time that you have; or, how to fit 10kg into a 1kg bag. 
 
-When I first stepped up into a management role, my boss warned me that that a problem many people face is time management: balancing the responsibilities of developing software with the additional responsibilities of leading teams and managing people.
+## Delegating
 
+A crucial mistake I made early on was not delegating enough. I felt a vaguely parent-like desire to 'protect' the team from context-switching or emergency work. Too often, I would get down in the trenches and tackle this work myself. So when I was supposed to be shifting more attention towards people and strategy, I found myself being pulled back into business-as-usual tasks. I gradually took on more workload, instead of insisting on support, from my direct reports and my counterparts on the leadership team. This meant I didn’t have all the headspace that I needed to effectively deal with incoming work that only I, as the manager, could do.
 
-### Delegating
+My manager raised this topic with me. He said: "I was hoping you would have helped more with department-wide initiatives A, B and C. It’s clear to me what’s going on. You look overworked." Through brainstorming with him and my mentors, I came to ask myself the following questions:
 
-A mistake I made early on is not delegating enough. I felt a sense of responsibility in making sure that I was on top of everything asked of my team:
+- Was I delegating enough?
 
-* Every piece of work in progress
-* Every plan being proposed
-* Every task on the Agile board.
+- Was I insisting on the support that I needed, from my team, peers and counterparts?
 
-When new work was asked of my team, I felt a strong desire to 'protect' the team from distractions, context-switching or emergency work. I would often pick this work up myself. In this time when I was supposed to be pivoting my attention more towards people and strategy, I was pulling myself further into routine development tasks.
+- Was I managing my time effectively?
 
-In addition, I was occupied with trying to influence other teams in the area to adopt a common technology strategy, and had become immersed in defining the product direction and managing stakeholders, such as operational teams, new product development and analytics.
+These three questions provided me with a robust framework that I could use to address the issue. Through answering these questions, I realised that I was not putting the responsibility for the team's work with the team, but trying to shoulder it myself. I was not insisting on the support that I needed, but trying to shield the team. And I was not insisting on the support that I needed from my counterparts within the team, but trying to do their work for them. 
 
-My attention had become spread so thinly that I no longer had the available headspace to effectively manage the kinds of incoming requests that only leadership could deal with:
+I realised that it was time to get serious about delegating.
 
-* When a large part of GDPR fell within my team's ownership area
-* When a mandatory migration to a new service was needed
-* When my fellow managers asked for assistance
+An exercise I found extremely helpful was as follows (from Harvard ManageMentor):
 
-Before long, my manager called me into their office and said something like:
+1. At the end of each day, write down list of all the work I did
 
-> I was hoping that you would pick up tasks X, Y and Z for the department, but you seem to have dropped the ball on these. It's quite clear to me what is going on: you look overworked. Are you delegating enough? Are you insisting on the support that you need from your team, from your product counterpart and from your peers? Are you managing your time effectively?
+2. Circle any tasks that could have been delegated to someone else
 
-They were right. I was not insisting on the support that I needed in order for the whole team to be effective. I was not putting the responsibility for the team's work with the team, but was shouldering it myself. And I was not insisting on the support that I needed from my counterparts within the team. **I realised that it was time to get serious about delegating.**
+After doing this for a couple of weeks, it really hit home how much work I was doing that could have been done by virtually *anyone* on the team, while the work that *I alone* as the manager could do was being left undone; impacting the team and company as a whole. This revelation led directly to me requesting significantly more work from my team members and putting significantly more responsibility for its completion with them.
 
-An exercise I found helpful in the beginning was as follows:
-
-* Write down all the tasks I completed, at the end of each day
-* Asterisk any tasks that I alone could have done
-* Circle any tasks that could have been delegated to someone else
-
-This clearly laid out how much work I was doing that in fact could and should have been done by *anyone else* on the team, while the work that *I alone* as the manager could do was being left undone, impacting the team as a whole.
-
-This revelation led directly to me requesting significantly more work from my team members and putting significantly more responsibility for its completion with them.
-
-Initially, I was apprehensive when raising such needed work to the team, because I knew how little power anyone has to actually *make people do things*. The following fears echoed in my mind: 
+In my conversations with new leaders, fear of delegation is common. Initially, I too was apprehensive when raising work items, because I knew how little power anyone has to actually *make people do things*. The following fears echoed in my mind: 
 
 * What if no one picks this work up?
-* What if the team members complain?
-* What if the team is genuinely too busy?
+* What if they complain?
+* What if they are genuinely too busy?
 
-Over time, I learned to create the space within the team where the problems and their priorities were understood. This allowed the team itself to decide how best to pick up new tasks and absorb them into the team's current workload. My role was to ensure that the team had the support that it needed, to provide guidance and clarity, and to understand, process and communicate feedback from the team to the rest of the organisation. Once the team understood the roles and responsibilities of each member, the people themselves were able to hold each other accountable to ensure that the team as a whole was delivering.
+Perhaps you have experienced some of these yourself?
 
+Over time, I learned to create the space within the team where the most important and urgent challenges and opportunities were understood. This includes guidance on prioritisation, planning and how this work fits into the big picture of the broader company vision. This allowed the team itself to decide how best to pick up new tasks and absorb them into the team's current workload.
 
-When I was volunteering to pick up all the incoming business-as-usual work items, I was severely restricting my capacity to work on genuine management tasks. I realised that if I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, out-perform and deliver beyond what they thought was possible. I was shielding them from learning opportunities, in a way that would be determinental to their long-term development. I realised that everyone on the team needs to become a self-sufficient representative of the team.
+My role was to ensure that the team had adequate resources and support, to provide guidance, to facilitate and coach, and to gather and provide feedback.
 
-As my expectations of the team members increased, my trust in them increased, too. I learned that people need to be given the chance and opportunity to succeed or fail on their own terms, on real projects that actually matter, in order to learn and grow.
+Real headway began once the team understood its purpose and the roles of each member. Then the people themselves were able to hold each other accountable to ensure that the team as a whole was delivering. This is an example of how a team can be made more more autonomous.
 
-### My 'first' team
+When I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. I realised that if I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, learn and over-achieve. I was falling into the trap of *ruinous empathy*, as described in the book Radical Candour.
 
-When I became a manager, I gained a second team that is actually my *first* team:
+I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
 
-* My boss; for example: head of division
-* My peers; for example: other technical people managers
-* My counterparts; for example: product managers, principals
+Every time I have dared to raise the bar of expectations of my people, I have been delightedly surprised by their repeated rising to the occasion. Time and time again, I have witnessed that people are capable of far more than I assumed, and I was doing neither them nor myself any favours by underestimating them.
 
-In the context of my *first* team, I learned that I am representing no longer just myself, but my entire team as an extension of myself. Within the team, I learned that I am no longer representing a single contributor, but the extension of the entire leadership function into the team.
+As my people consistently delivered beyond what I thought was achievable, my trust in them increased dramatically. I learned that people need to be given the opportunity to succeed or fail on their own terms, on real projects in real life that actually matter.
 
-With this re-framing of my role clear my mind, I realised that my responsibility now is to align my team's resources and capabilities with the rest of the organisation to ensure they are effectively brought to bear to meet the company's most important goals and objectives. My team was there to help us all achieve the priorities and business objectives set out by the company. 
+## The *first* team
 
-When my manager asked me to deliver tasks, it was *implicit* that I would leverage the full capabilities and capacities of the available resources in order to achieve them. *Of course* I should use whatever resources are available, as effectively as possible, to achieve company goals. This was not *in addition* to my work; this *was* my work.
+When I became a manager, I gained a second team that is actually my *first* team. It is the team that consisted of my new management peers. Sometimes, it’s called the leadership or steering team, if you’re more familiar with that terminology.
 
-When I was unable to bring my resources to bear for the department's most important and urgent priorities, my manager rightly started to dig in further. Why? From their point of view, I have been assigned significant resources in order to deliver what needs to be done. My manager would not tell me how to use these resources. It was my job as a manager to learn how to do this myself. My manager was trying to help me see this, so that I could learn and grow.
+Who was on my first team?
 
-What then is my role on my team?
+* My boss: head of the area
+* My peers: the other people managers in the area
+* My counterparts: product managers, marketing managers, tech leads, principals and so on
 
-* Support, guide, mentor, coach and facilitate the team
-* Provide strategic and technical direction
-* Planning, from high-level roadmaps to project-specific plans
-* Review work and provide meaningful feedback that lands
-* Connect-the-dots through leveraging my knowledge and network
-* Ensure effective alignment with the rest of the organisation
+In the context of my *first* team, I learned that I am representing no longer just myself, but my entire team, as an extension of myself. Within the team, I learned that I am no longer representing a single contributor, but the extension of the entire leadership function into the team. Once this re-framing of my role was clear my mind, I realised that my responsibility was now to align my team's capabilities with the goals of the organisation as a whole, to meet the company's most important objectives. My team was there to help us all achieve the vision set out by the company. It was *implicit* that I would utilise the full capabilities my available resources. *Of course* I should use whatever resources are available, as effectively as possible, to achieve company goals. This was not *in addition* to my work; this now *was* my work.
+
+Earlier, when I was unable to bring my resources to bear for the department's most important and urgent priorities, my manager rightly started to dig in further. Why? From their point of view, I have been assigned significant resources in order to deliver what needs to be done. My manager would not tell me how to use these resources. And neither will yours. It is literally our jobs as managers to do this ourselves. It would be impossible to be anything but a novice manager without mastering these skills. My manager was trying to help me see this, so that I could learn and grow.
+
+I hope through relating my story, I have helped you to see this, too.
+
+### Take-aways
+
+* Time management is a common challenge when stepping up into leadership.
+* Protecting the team from work can be an example of *ruinous empathy*.
+* Fear of delegation is common.
+* The team members need to be empowered to be autonomous and hold each other accountable.
+* High expectations lead to high performance (under the right conditions).
+* Succeeding or failing on projects that matter is key to growth.
+* Managers have a *first* team of peers and counterparts.
+* We represent our team as an extension of ourselves in the context of our first team, and vice versa.
+* The role of management is to fully engage the available people and resources to achieve company objectives and ultimately the overall vision.
+* No one else will tell you how best to use the resources available to you, nor can they. That’s your job.
