@@ -2,7 +2,7 @@
 layout: post
 title:  "How I got serious about delegating"
 date:   2019-10-06 14:36:00 +0100
-published: false
+published: true
 categories: management leadership people
 ---
 
