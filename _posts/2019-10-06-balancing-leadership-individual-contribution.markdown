@@ -40,13 +40,11 @@ Over time, I learned to create the space within the team where the most importan
 
 Real headway began once the team understood its purpose and the roles of each member. Then the people themselves were able to hold each other accountable to ensure that the team as a whole was delivering.
 
-I learned that when I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. I realised that if I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, learn and over-achieve. I was falling into the trap of *ruinous empathy*, as described in the book Radical Candour.
+I learned that when I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. I realised that if I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, learn and over-achieve. I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
 
-I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
+Every time I have dared to raise the bar of expectations, I have been delightedly surprised by the team's repeated rising to the occasion. Time and time again, I have witnessed that people are capable of far more than I assumed, and I was doing neither them nor myself any favours by underestimating them.
 
-Every time I have dared to raise the bar of expectations of my people, I have been delightedly surprised by their repeated rising to the occasion. Time and time again, I have witnessed that people are capable of far more than I assumed, and I was doing neither them nor myself any favours by underestimating them.
-
-As my people consistently delivered beyond what I thought was achievable, my trust in them increased dramatically. I learned that people need to be given the opportunity to succeed or fail on their own terms, on real projects in real life that actually matter.
+As the team consistently delivered beyond what I thought was achievable, my trust in them increased dramatically. I learned that people need to be given the opportunity to succeed or fail on their own terms, on real projects in real life that actually matter.
 
 ## The *first* team
 
