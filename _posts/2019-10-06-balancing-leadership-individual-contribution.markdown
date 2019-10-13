@@ -34,21 +34,13 @@ An exercise I found extremely helpful was as follows (from Harvard ManageMentor)
 
 After doing this for a couple of weeks, it really hit home how much work I was doing that could have been done by virtually *anyone* on the team, while the work that *I alone* as the manager could do was being left undone; impacting the team and company as a whole. This revelation led directly to me requesting significantly more work from my team members and putting significantly more responsibility for its completion with them.
 
-In my conversations with new leaders, fear of delegation is common. Initially, I too was apprehensive when raising work items, because I knew how little power anyone has to actually *make people do things*. The following fears echoed in my mind: 
+The fear of delegation is common and a regular topic in my conversations with people. Initially, I too was apprehensive, because at the end of the day, no-one can actually force anyone else to do anything.
 
-* What if no one picks this work up?
-* What if they complain?
-* What if they are genuinely too busy?
+Over time, I learned to create the space within the team where the most important and urgent challenges and opportunities were understood. This allowed the team itself to decide how best to pick up new tasks and absorb them into the current workload.
 
-Perhaps you have experienced some of these yourself?
+Real headway began once the team understood its purpose and the roles of each member. Then the people themselves were able to hold each other accountable to ensure that the team as a whole was delivering.
 
-Over time, I learned to create the space within the team where the most important and urgent challenges and opportunities were understood. This includes guidance on prioritisation, planning and how this work fits into the big picture of the broader company vision. This allowed the team itself to decide how best to pick up new tasks and absorb them into the team's current workload.
-
-My role was to ensure that the team had adequate resources and support, to provide guidance, to facilitate and coach, and to gather and provide feedback.
-
-Real headway began once the team understood its purpose and the roles of each member. Then the people themselves were able to hold each other accountable to ensure that the team as a whole was delivering. This is an example of how a team can be made more more autonomous.
-
-When I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. I realised that if I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, learn and over-achieve. I was falling into the trap of *ruinous empathy*, as described in the book Radical Candour.
+I learned that when I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. I realised that if I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, learn and over-achieve. I was falling into the trap of *ruinous empathy*, as described in the book Radical Candour.
 
 I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
 
