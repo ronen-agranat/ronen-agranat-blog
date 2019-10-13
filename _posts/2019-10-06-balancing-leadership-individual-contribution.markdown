@@ -10,9 +10,9 @@ Stepping up to the leadership plate can be daunting. A common challenge new lead
 
 When I was getting started, my boss advised me sagely that balance and time management are paramount: How to get everything done in the  limited time you have, or, how to fit 10kg into a 1kg bag.
 
-## Delegating
+## Getting comfortable with delegating
 
-A crucial mistake I made early on was not delegating enough. I felt a desire to 'protect' the team from context-switching or emergency work. Too often, I would get down in the trenches and tackle this work myself. So when I was supposed to be shifting more attention towards people and strategy, I found myself being pulled back into business-as-usual tasks. I gradually took on more workload, instead of insisting on support, from my direct reports and my counterparts on the leadership team. This meant I didn’t have all the headspace that I needed to effectively deal with incoming work that only I, as the manager, could do.
+A common mistake I made early on was not delegating enough. I felt a desire to 'protect' the team from context-switching or emergency work. Too often, I would get down onto the field and tackle this work myself. So when I was supposed to be shifting more attention towards people and strategy, I found myself being pulled back into business-as-usual tasks. Instead of insisting on support from my direct reports and peers, I gradually took on more workload. This meant I didn’t have the headspace I needed to deal optimally with all the incoming work that only I, as the manager, could do.
 
 My manager raised this topic with me. He said: "I was hoping you would have helped more with department-wide initiatives A, B and C. It’s clear to me what’s going on. You look overworked." Through brainstorming with him and my mentors, I came to ask myself the following questions:
 
