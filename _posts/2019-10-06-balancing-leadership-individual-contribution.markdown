@@ -22,7 +22,7 @@ My manager raised this topic with me. He said: "I was hoping you would have help
 
 - Was I managing my time effectively?
 
-These three questions provided me with a robust framework that I could use to address the issue. Through answering these questions, I realised that I was not putting the responsibility for the team's work with the team, but trying to shoulder it myself. I was not insisting on the support that I needed, but trying to shield the team. And I was not insisting on the support that I needed from my counterparts within the team, but trying to do their work for them. 
+Over time, these three questions proved themselves invaluable to me. Through answering these questions, I realised that I was not putting the responsibility for the team's work with the team, but trying to shoulder it myself. I was not insisting on the support that I needed, but trying to shield the team. And I was not insisting on the support that I needed from my counterparts within the team, but trying to do their work for them. 
 
 I realised that it was time to get serious about delegating.
 
