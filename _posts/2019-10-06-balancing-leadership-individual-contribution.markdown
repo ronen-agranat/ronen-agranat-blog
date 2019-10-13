@@ -24,7 +24,7 @@ My manager raised this topic with me. He said: "I was hoping you would have help
 
 Over time, these three questions proved themselves invaluable to me. Through answering these questions, I realised that I was not putting enough responsibility with the team, but trying to shoulder it all myself. I was not insisting on the support that I needed, but working longer to try cover an expanding workload. And I was not insisting on the support that I needed from my peers and counterparts, but trying to do their work for them. 
 
-> I realised that it was time to get serious about delegating.
+**I realised that it was time to get serious about delegating.**
 
 An exercise I found extremely helpful was as follows (from Harvard ManageMentor):
 
