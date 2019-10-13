@@ -6,9 +6,9 @@ published: true
 categories: management leadership people
 ---
 
-Stepping up to the leadership plate can be daunting. A common challenge new leaders face is balancing their existing duties with the additional responsibilities of management. A question I’m often asked by new managers is "How do I balance managing a team with my responsibilities as an individual contributor?"
+Stepping up to the leadership plate can be daunting. A common challenge new leaders face is balancing their existing duties with the additional responsibilities of management. I’m often asked: "How do I balance managing a team with my responsibilities as an individual contributor?"
 
-When I was first stepping up into a management role, my boss advised me safely that balance and time management are paramount: How to get everything done in the increasingly limited amount of time that you have; or, how to fit 10kg into a 1kg bag. 
+When I was first stepping up into a management role, my boss advised me sagely that balance and time management are paramount: How to get everything done in the increasingly limited amount of time that you have; or, how to fit 10kg into a 1kg bag. 
 
 ## Delegating
 
