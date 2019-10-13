@@ -48,10 +48,6 @@ Over time, I learned to create the space within the team where the most importan
 
 I learned that when I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. I was robbing my team of opportunities to step up, learn and over-achieve. I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
 
-Every time I have dared to raise the bar of expectations, I have been delighted by the team's repeated rising to the occasion. Time and time again, I have witnessed that people are capable of far more than I had assumed, and I was doing neither them nor myself any favours by underestimating them.
-
-As the team consistently delivered beyond what I thought was achievable, my trust in them increased dramatically. I learned that people need to be given the opportunity to succeed or fail on their own terms, on real projects that actually matter.
-
 ## Recognising the *first* team
 
 When I became a manager, I gained a second team that was actually my *first* team. It is the team that consisted of my new management peers. Sometimes, it’s called the leadership or steering team, if you’re more familiar with that terminology.
@@ -62,11 +58,11 @@ Who was on my first team?
 * My peers: the other people managers in the area
 * My counterparts: product managers, marketing managers, tech leads, principals and so on
 
-In the context of my *first* team, I learned that I am representing no longer just myself, but my entire team, as an extension of myself. Within the team, I learned that I am no longer representing a single contributor, but the extension of the entire leadership function into the team. Once this re-framing of my role was clear my mind, I realised that my responsibility was now to align my team's capabilities with the goals of the organisation as a whole, to meet the company's most important objectives. My team was there to help us all achieve the vision set out by the company. It was *implicit* that I would utilise the full capabilities my available resources. *Of course* I should use whatever resources are available, as effectively as possible, to achieve company goals. This was not *in addition* to my work; this now *was* my work.
+In the context of my *first* team,  I was representing no longer just myself, but my entire team, as an extension of myself. To my direct reports, I no longer represented just myself, but the entire leadership function. I realised that my role was now to align my team with the goals of the organisation. My team was there to help us all achieve the vision set out by the company. It was *implicit* that I would fully engage my team in order to do this. *Of course* I should use whatever resources are available, as effectively as possible. This was not *in addition* to my work; this now *was* my work.
 
 ## Conclusion
 
-Earlier, when my manager raised the topic of delegation with me, he was trying to teach me something. From his point of view, he assigned me significant resources in order for me to do what needs to get done. My manager would not tell me how to use these resources. And neither will yours. It is literally our jobs as managers to best use our available resources. That's why delegation is a critical skill. My manager was trying to help me see this, so that I could learn and grow. I hope that I have helped you to see this, too.
+Earlier, when my manager raised the topic of delegation with me, he was trying to teach me something. From his point of view, he assigned me significant resources in order for me to do what needs to get done. My manager would not tell me how to use these resources. And neither will yours. It is literally our jobs as managers to best use our available resources. That's why delegation is a critical skill.
 
 ### Take-aways
 
