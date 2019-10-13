@@ -6,7 +6,11 @@ published: true
 categories: management leadership people
 ---
 
-Stepping up to the leadership plate can be daunting. A common challenge new leaders face is balancing their existing duties with the additional responsibilities of management. I’m often asked: "How do I balance managing a team with my responsibilities as an individual contributor?"
+## Introduction
+
+Stepping up to the leadership plate can be daunting. A common challenge new leaders face is balancing their existing duties with the additional responsibilities of management. I’m often asked:
+
+> How do I balance managing a team with my responsibilities as an individual contributor?
 
 When I was getting started, my boss advised me sagely that balance and time management are paramount: How to get everything done in the  limited time you have, or, how to fit 10kg into a 1kg bag.
 
@@ -14,7 +18,11 @@ When I was getting started, my boss advised me sagely that balance and time mana
 
 A common mistake I made early on was not delegating enough. I felt a desire to 'protect' the team from context-switching or emergency work. Too often, I would get down onto the field and tackle this work myself. So when I was supposed to be shifting more attention towards people and strategy, I found myself being pulled back into business-as-usual tasks. Instead of insisting on support from my direct reports and peers, I gradually took on more workload. This meant I didn’t have the headspace I needed to deal optimally with all the incoming work that only I, as the manager, could do.
 
-My manager raised this topic with me. He said: "I was hoping you would have helped more with department-wide initiatives A, B and C. It’s clear to me what’s going on. You look overworked." Through brainstorming with him and my mentors, I came to ask myself the following questions:
+My manager raised this topic with me. He said:
+
+> I was hoping you would have helped more with initiatives A, B and C. It’s clear to me what’s going on. You look overworked.
+
+Through brainstorming with him and my mentors, I came to ask myself the following questions:
 
 - Was I delegating enough?
 
@@ -40,15 +48,15 @@ Over time, I learned to create the space within the team where the most importan
 
 Real headway began once the team understood its purpose and the roles of each member. Then the people themselves were able to hold each other accountable to ensure that the team as a whole was delivering.
 
-I learned that when I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. I realised that if I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, learn and over-achieve. I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
+I learned that when I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. When I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, learn and over-achieve. I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
 
-Every time I have dared to raise the bar of expectations, I have been delightedly surprised by the team's repeated rising to the occasion. Time and time again, I have witnessed that people are capable of far more than I assumed, and I was doing neither them nor myself any favours by underestimating them.
+Every time I have dared to raise the bar of expectations, I have been delighted by the team's repeated rising to the occasion. Time and time again, I have witnessed that people are capable of far more than I had assumed, and I was doing neither them nor myself any favours by underestimating them.
 
-As the team consistently delivered beyond what I thought was achievable, my trust in them increased dramatically. I learned that people need to be given the opportunity to succeed or fail on their own terms, on real projects in real life that actually matter.
+As the team consistently delivered beyond what I thought was achievable, my trust in them increased dramatically. I learned that people need to be given the opportunity to succeed or fail on their own terms, on real projects that actually matter.
 
-## The *first* team
+## Recognising the *first* team
 
-When I became a manager, I gained a second team that is actually my *first* team. It is the team that consisted of my new management peers. Sometimes, it’s called the leadership or steering team, if you’re more familiar with that terminology.
+When I became a manager, I gained a second team that was actually my *first* team. It is the team that consisted of my new management peers. Sometimes, it’s called the leadership or steering team, if you’re more familiar with that terminology.
 
 Who was on my first team?
 
@@ -58,16 +66,16 @@ Who was on my first team?
 
 In the context of my *first* team, I learned that I am representing no longer just myself, but my entire team, as an extension of myself. Within the team, I learned that I am no longer representing a single contributor, but the extension of the entire leadership function into the team. Once this re-framing of my role was clear my mind, I realised that my responsibility was now to align my team's capabilities with the goals of the organisation as a whole, to meet the company's most important objectives. My team was there to help us all achieve the vision set out by the company. It was *implicit* that I would utilise the full capabilities my available resources. *Of course* I should use whatever resources are available, as effectively as possible, to achieve company goals. This was not *in addition* to my work; this now *was* my work.
 
-Earlier, when I was unable to bring my resources to bear for the department's most important and urgent priorities, my manager rightly started to dig in further. Why? From their point of view, I have been assigned significant resources in order to deliver what needs to be done. My manager would not tell me how to use these resources. And neither will yours. It is literally our jobs as managers to do this ourselves. It would be impossible to be anything but a novice manager without mastering these skills. My manager was trying to help me see this, so that I could learn and grow.
+## Conclusion
 
-I hope through relating my story, I have helped you to see this, too.
+Earlier, when my manager raised the topic of delegation with me, he was trying to teach me something. From his point of view, he assigned me significant resources in order for me to do what needs to get done. My manager would not tell me how to use these resources. And neither will yours. It is literally our jobs as managers to best use our available resources. That's why delegation is a critical skill. My manager was trying to help me see this, so that I could learn and grow. I hope that I have helped you to see this, too.
 
 ### Take-aways
 
 * Time management is a common challenge when stepping up into leadership.
 * Protecting the team from work can be an example of *ruinous empathy*.
 * Fear of delegation is common.
-* The team members need to be empowered to be autonomous and hold each other accountable.
+* The team members need to be empowered to be *autonomous* and hold each other accountable.
 * High expectations lead to high performance (under the right conditions).
 * Succeeding or failing on projects that matter is key to growth.
 * Managers have a *first* team of peers and counterparts.
