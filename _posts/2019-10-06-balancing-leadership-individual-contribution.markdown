@@ -44,11 +44,9 @@ After doing this for a couple of weeks, it really hit home how much work I was d
 
 The fear of delegation is common and a regular topic in my conversations with people. Initially, I too was apprehensive, because at the end of the day, no-one can actually force anyone else to do anything.
 
-Over time, I learned to create the space within the team where the most important and urgent challenges and opportunities were understood. This allowed the team itself to decide how best to pick up new tasks and absorb them into the current workload.
+Over time, I learned to create the space within the team where the most important and urgent challenges and opportunities were understood. This allowed the team itself to decide how best to pick up new tasks and absorb them into the current workload. Once the team understood its purpose and the roles of each member, the people themselves were able to hold each other accountable to ensure that the team as a whole was delivering.
 
-Real headway began once the team understood its purpose and the roles of each member. Then the people themselves were able to hold each other accountable to ensure that the team as a whole was delivering.
-
-I learned that when I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. When I was picking up all the incoming work by default, I was robbing my team of opportunities to step up, learn and over-achieve. I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
+I learned that when I was volunteering to pick up all the incoming work, I was severely restricting my capacity to work on genuine management tasks. I was robbing my team of opportunities to step up, learn and over-achieve. I realised that everyone *on* the team needed to become a self-sufficient representative *of* the team.
 
 Every time I have dared to raise the bar of expectations, I have been delighted by the team's repeated rising to the occasion. Time and time again, I have witnessed that people are capable of far more than I had assumed, and I was doing neither them nor myself any favours by underestimating them.
 
