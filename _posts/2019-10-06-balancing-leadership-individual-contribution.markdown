@@ -34,9 +34,9 @@ Over time, these three questions proved themselves invaluable to me. Through ans
 
 **I realised that it was time to get serious about delegating.**
 
-An exercise I found extremely helpful was as follows (from Harvard ManageMentor):
+An exercise I found insightful was as follows:
 
-1. At the end of each day, write down list of all the work I did
+1. At the end of each day, write down a list of all the work I did
 
 2. Circle any tasks that could have been delegated to someone else
 
