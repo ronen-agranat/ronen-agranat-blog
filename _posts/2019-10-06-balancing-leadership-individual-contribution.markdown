@@ -75,4 +75,4 @@ Earlier, when my manager raised the topic of delegation with me, he was trying t
 * Managers have a *first* team of peers and counterparts.
 * We represent our team as an extension of ourselves in the context of our first team, and vice versa.
 * The role of management is to fully engage the available people and resources to achieve company objectives and ultimately the overall vision.
-* No one else will tell you how best to use the resources available to you, nor can they. That’s your job.
+* No one else will tell you how best to use the resources available to you, nor can they. That’s our job as managers.
