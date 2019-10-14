@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I got serious about delegating"
-date:   2019-10-06 14:36:00 +0100
+date:   2019-10-14 07:00:00 +0100
 published: true
 categories: management leadership people
 ---
@@ -76,3 +76,5 @@ Earlier, when my manager raised the topic of delegation with me, he was trying t
 * We represent our team as an extension of ourselves in the context of our first team, and vice versa.
 * The role of management is to fully engage the available people and resources to achieve company objectives and ultimately the overall vision.
 * No one else will tell you how best to use the resources available to you, nor can they. That’s our job as managers.
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"929f5148fab57fbd5cc883c45","lid":"50445f9ece","uniqueMethods":true}) })</script>
