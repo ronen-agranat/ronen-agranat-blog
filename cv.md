@@ -42,8 +42,7 @@ permalink: /cv/
     * Owned externally-facing BookingButton product end-to-end
     * Optimised Booking Engine using A/B experimentation.
 * **Achievements**:
-    * Launched BookingButton product, growing to > 10K accommodation partners over 6 months,
-    with revenue > 220K EUR p/m.
+    * Launched BookingButton product
     * Defined technology strategy and road-map for area
     * 2 direct reports promoted to senior
 
