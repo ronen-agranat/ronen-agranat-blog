@@ -10,7 +10,7 @@ permalink: /cv/
 | **Email**            | ronen.agranat@gmail.com       |
 | **Date of birth**    | 2 February 1987               |
 | **Residence**        | Amsterdam, The Netherlands        |
-| **Languages**        | English, Dutch (A2), Afrikaans (2<sup>nd</sup> language) |
+| **Languages**        | English, Afrikaans (2<sup>nd</sup> language), Dutch |
 | **Visa**             | Dutch highly-skilled visa     |
 | **Nationality**      | South African                 |
 | **Driving license** | Yes                           |
@@ -134,62 +134,54 @@ permalink: /cv/
 
 ## Skills
 
-<span class="badge">People management</span>
-<span class="badge">Leadership</span>
-<span class="badge">Project management</span>
-<span class="badge">Change management</span>
-<span class="badge">Facilitation</span>
-<span class="badge">Vision-setting</span>
-<!-- -->
-<span class="badge">Cloud computing</span>
-<span class="badge">Amazon Web Services (AWS)</span>
-<span class="badge">Distributed systems</span>
-<span class="badge">Service-orientated architecture (SOA)</span>
-<span class="badge">Micro-services</span>
-<!-- -->
-<span class="badge">JavaScript</span>
-<span class="badge">React</span>
-<span class="badge">EcmaScript 6 (ES6)</span>
-<span class="badge">jQuery</span>
-<!-- -->
-<span class="badge">Ruby</span>
-<span class="badge">Ruby on Rails (RoR)</span>
-<!-- -->
-<span class="badge">Java</span>
-<!-- -->
-<span class="badge">Perl</span>
-<span class="badge">Python</span>
-<!-- -->
-<span class="badge">C++</span>
-<span class="badge">C</span>
-<!-- -->
-<span class="badge">Linux</span>
-<span class="badge">MySQL</span>
-<!-- -->
-<span class="badge">Test-driven Development (TDD)</span>
-<span class="badge">Selenium</span>
-<span class="badge">JUnit</span>
-<span class="badge">TestNG</span>
-<span class="badge">rspec</span>
-<!-- -->
-<span class="badge">Agile methodologies</span>
-<span class="badge">Jira</span>
-<span class="badge">Trello</span>
-<span class="badge">Scrum</span>
-<span class="badge">Kan-ban</span>
-<!-- -->
-<span class="badge">DevOps</span>
-<span class="badge">Extreme Programming (XP)</span>
-<span class="badge">FinTech</span>
-<span class="badge">Conversion funnel</span>
-<span class="badge">Heroku</span>
-<!-- -->
-<span class="badge">Git</span>
-<span class="badge">GitHub</span>
-<span class="badge">GitLab</span>
-<span class="badge">Excel</span>
-<span class="badge">CSS</span>
-<span class="badge">HTML</span>
+<strong>Management and leadership</strong>:
+People management,
+Project management,
+Change management,
+Servant leadership,
+Recruiting,
+Building teams,
+Vision-setting,
+Strategy,
+Roadmap,
+Planning,
+Delegation,
+Feedback,
+Coaching,
+Mentoring,
+High-performing teams,
+Goal-setting,
+SMART goals,
+OKRs,
+KPIs,
+Multi-disciplinary,
+Multi-cultural,
+Facilitation,
+Agile,
+Scrum,
+Kan-ban,
+Public-speaking,
+Professional communication
+
+<strong>Software architecture:</strong>
+Cloud computing, Amazon Web Services (AWS), EC2, VPC, Heroku, SQS, SNS,
+Elastic Beanstalk, Docker, Kubernetes, Service-orientated architecture (SOA),
+Distributed systems, Systems theory, Micro-services, Micro-frontend,
+Horizontal scaling, CloudFormation, S3, Firebase, DynamoDB
+
+<strong>Programming languages and frameworks:</strong>
+TypeScript, JavaScript, ES6, React, NestJS, Redux, jQuery,
+Ruby, Ruby on Rails, Java, Spring, DropWizard, Python 2, Python 3,
+Django, Perl, PHP, C++, C, Qt, Matlab, VHDL, Assembly, HTML, CSS
+
+<strong>Software testing:</strong>
+Test-driven development, Selenium, End-to-end tests, Unit tests,
+Integration tests, API testing, Postman
+
+<strong>Miscellaneous:</strong>
+Windows, Linux, Mac OS, Excel, Microsoft Project, Google Suite,
+Google Analytics, Trello, Jira, Jupyter Notebook, MySQL, SQL,
+Electrical engineering, Arduino, Raspberry Pi, VHDL, Domain-specific languages
 
 ## Education
 
@@ -206,7 +198,3 @@ permalink: /cv/
 
 * First in college (Dux medal)
 * First place for Computer science, Science and English
-
-## Hobbies and interests
-
-* Musician: bass guitar; played in bands in many genres including jazz, classical, pop and rock
