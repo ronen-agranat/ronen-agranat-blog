@@ -10,15 +10,15 @@ permalink: /cv/
 | **Email**            | ronen.agranat@gmail.com       |
 | **Date of birth**    | 2 February 1987               |
 | **Residence**        | Amsterdam, The Netherlands        |
-| **Languages**        | English, Afrikaans (2<sup>nd</sup> language), Dutch |
+| **Languages**        | English, Afrikaans (2<sup>nd</sup> language), Dutch (basic) |
 | **Visa**             | Dutch highly-skilled visa     |
 | **Nationality**      | South African                 |
 | **Driving license** | Yes                           |
 
-## Booking.com: Full-stack software developer & team lead
+## Booking.com
 
 *Aug 2019 - Current*: 
-
+* **Role**: Full-stack software developer & team lead
 * **Department**: Content (Accommodations Business Unit)
 * **Ownership area**: 
     * User-generated content experience on Booking.com: photo's and reviews
@@ -28,10 +28,10 @@ permalink: /cv/
     quality specialists and designers; 4 of whom senior.
 * **Achievements**:
     * Facilitated re-organisation of BookingSuite Web Family into Accommodations Business Unit
-    * Managed 1 re-integration case
+    * Managed 2 re-integration cases
 
 *Nov 2018 - Aug 2019*:
-
+* **Role**: Full-stack software developer & team lead
 * **Department**: BookingSuite Web Family
 * **Ownership area**:
     * Booking Engine: direct channel conversion funnel for partners' custom websites;
@@ -47,7 +47,7 @@ permalink: /cv/
     * 2 direct reports promoted to senior
 
 *Feb 2017 - Nov 2018*:
-
+* **Role**: Full-stack software developer & team lead
 * **Department**: Customer service tech & product
 * **Ownership area**:
     * Primary internal web application for customer service agents
@@ -64,17 +64,17 @@ permalink: /cv/
     * 2 reports promoted, one to senior, one to lead
     * Managed 1 re-integration case
 
-*Dec 2016 - Feb 2017*: Software developer
-
+*Dec 2016 - Feb 2017*:
+* **Role**: Software developer
 * **Department**: New Partnerships
 * **Ownership area**: join.booking.com partner sign-up funnel
 * **Responsibilities**: Optimise partner sign-up funnel using A/B experimentation
 
-## Jumo: Software developer
+## Jumo
 
 *Sep 2015 - Sep 2016*
 
-* **Department**: Engineering
+* **Role**: Software developer
 * **Description**:
     * Mobile-money start-up providing micro-loan financing to > 5m customers in countries throughout Africa
     * White-label financial products integrated with mobile network operators
@@ -89,10 +89,11 @@ permalink: /cv/
     lifecycle progression, accounting, and internal tooling
     * DevOps and on-call rotation
 
-## Amazon.com: Software development engineer
+## Amazon.com
 
-*Jan 2012 - Sep 2015*: Software development engineer
+*Jan 2012 - Sep 2015*:
 
+* **Role**: Software development engineer
 * **Department**: Amazon Web Services (AWS) Elastic Compute Cloud (EC2)
 * **Ownership area**:
     * Primary internal web application for administrating EC2 data-centres
@@ -110,8 +111,9 @@ permalink: /cv/
     * Built-out tooling for Frankfurt region
     * Interviewer in > 80 interview loops
 
-*May 2011 - Jan 2012*: Software development engineer - testing
+*May 2011 - Jan 2012*:
 
+* **Role**: Software development engineer in testing
 * **Ownership area**:
     * Public-facing EC2 and VPC management console web applications (console.aws.amazon.com), Java libraries and
     command-line tools
@@ -149,12 +151,12 @@ Feedback,
 Coaching,
 Mentoring,
 High-performing teams,
+Performance measurement,
 Goal-setting,
 SMART goals,
 OKRs,
 KPIs,
-Multi-disciplinary,
-Multi-cultural,
+Multi-disciplinary teams
 Facilitation,
 Agile,
 Scrum,
