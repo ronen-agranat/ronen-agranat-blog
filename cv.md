@@ -172,7 +172,7 @@ Horizontal scaling, CloudFormation, S3, Firebase, DynamoDB
 
 <strong>Programming languages and frameworks:</strong>
 TypeScript, JavaScript, ES6, React, NestJS, Redux, jQuery,
-Ruby, Ruby on Rails, Java, Spring, DropWizard, Python 2, Python 3,
+Ruby, Ruby on Rails, Java, Spring, Python,
 Django, Perl, PHP, C++, C, Qt, Matlab, VHDL, Assembly, HTML, CSS
 
 <strong>Software testing:</strong>
@@ -180,9 +180,9 @@ Test-driven development, Selenium, End-to-end tests, Unit tests,
 Integration tests, API testing, Postman
 
 <strong>Miscellaneous:</strong>
-Windows, Linux, Mac OS, Excel, Microsoft Project, Google Suite,
+Windows, Linux, bash, Mac OS, Excel, Microsoft Project, Google Suite,
 Google Analytics, Trello, Jira, Jupyter Notebook, MySQL, SQL,
-Electrical engineering, Arduino, Raspberry Pi, VHDL, Domain-specific languages
+Arduino, Raspberry Pi, VHDL, Domain-specific languages
 
 ## Education
 
