@@ -10,7 +10,7 @@ permalink: /cv/
 | **Email**            | ronen.agranat@gmail.com       |
 | **Date of birth**    | 2 February 1987               |
 | **Residence**        | Amsterdam, The Netherlands        |
-| **Languages**        | English, Afrikaans (2<sup>nd</sup> language), Dutch (basic) |
+| **Languages**        | English, Afrikaans (2<sup>nd</sup> language), Dutch (basic), Hebrew (basic) |
 | **Visa**             | Dutch highly-skilled visa     |
 | **Nationality**      | South African                 |
 | **Driving license** | Yes                           |
