@@ -35,8 +35,6 @@ For example, my organisation and I played a key role in planning and executing o
 
 Each and every person had immense challenges to overcome during this unforgiving year: whether it’s working from a small, shared apartment; taking care of young children when schools and daycare were closed; needing to visit relatives in need; or being unable to visit friends and family; not to mention the likelihood that many of us contracted COVID-19 during this year, in addition to the ergonomic challenges posed by our makeshift work-from-home offices. These myriad issues cannot but have had a real effect on everyone’s performance. They may even have led to feelings of guilt, where people feel badly about needing to work adjusted hours to care for their families, for example. In almost all cases, a healthy dose of empathy and flexibility on behalf of management were all that were needed.
 
-For example, in my team at Booking, we trusted and allowed parents to work when they were able. We saw no drop in productivity in my area, neither anecdotally nor quantitatively, even as the entire org shifted to working from home, which was remarkable.
-
 ## 4. Reward top performers
 
 When faced with challenging circumstances, some people will rise far above reasonable expectations to deliver more than what was thought possible. Such people are responsible for most business success in any organisation. Even in times of crisis, such people need to be acknowledged, rewarded and given opportunities to grow even further.
@@ -55,4 +53,4 @@ It provides a natural moment of bonding as well as reflection. And failures can 
 
 As this infamous year draws to an end, I want to remind us all to take excellent care of ourselves and especially each other. Let's all get some much-needed rest over this holiday season, and return refreshed, ready and hungry for a strong recovery in 2021, building on all of the hard work and preparation that we have put into place this year.
 
-*Ronen Agranat is a manager of software development at Booking.com in Amsterdam, where he leads an organisation of ~25 people (4 product development teams + management team), at the core of the customer funnel. Do you want to help us help everyone experience the world? We are always looking for exceptional talent*
+*Ronen Agranat is a manager of software development at Booking.com in Amsterdam, where he leads an organisation of ~25 people, at the core of the customer funnel. Do you want to help us help everyone experience the world? We are always looking for exceptional talent*
