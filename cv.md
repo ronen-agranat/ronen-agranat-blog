@@ -10,15 +10,15 @@ permalink: /cv/
 | **Email**            | ronen.agranat@gmail.com       |
 | **Date of birth**    | 2 February 1987               |
 | **Residence**        | Amsterdam, The Netherlands        |
-| **Languages**        | English, Dutch (A2), Afrikaans (2<sup>nd</sup> language) |
+| **Languages**        | English, Afrikaans (2<sup>nd</sup> language), Dutch (basic), Hebrew (basic) |
 | **Visa**             | Dutch highly-skilled visa     |
 | **Nationality**      | South African                 |
 | **Driving license** | Yes                           |
 
-## Booking.com: Full-stack software developer & team lead
+## Booking.com
 
 *Aug 2019 - Current*: 
-
+* **Role**: Full-stack software developer & team lead
 * **Department**: Content (Accommodations Business Unit)
 * **Ownership area**: 
     * User-generated content experience on Booking.com: photo's and reviews
@@ -28,10 +28,10 @@ permalink: /cv/
     quality specialists and designers; 4 of whom senior.
 * **Achievements**:
     * Facilitated re-organisation of BookingSuite Web Family into Accommodations Business Unit
-    * Managed 1 re-integration case
+    * Managed 2 re-integration cases
 
 *Nov 2018 - Aug 2019*:
-
+* **Role**: Full-stack software developer & team lead
 * **Department**: BookingSuite Web Family
 * **Ownership area**:
     * Booking Engine: direct channel conversion funnel for partners' custom websites;
@@ -42,13 +42,12 @@ permalink: /cv/
     * Owned externally-facing BookingButton product end-to-end
     * Optimised Booking Engine using A/B experimentation.
 * **Achievements**:
-    * Launched BookingButton product, growing to > 10K accommodation partners over 6 months,
-    with revenue > 220K EUR p/m.
+    * Launched BookingButton product
     * Defined technology strategy and road-map for area
     * 2 direct reports promoted to senior
 
 *Feb 2017 - Nov 2018*:
-
+* **Role**: Full-stack software developer & team lead
 * **Department**: Customer service tech & product
 * **Ownership area**:
     * Primary internal web application for customer service agents
@@ -65,17 +64,17 @@ permalink: /cv/
     * 2 reports promoted, one to senior, one to lead
     * Managed 1 re-integration case
 
-*Dec 2016 - Feb 2017*: Software developer
-
+*Dec 2016 - Feb 2017*:
+* **Role**: Software developer
 * **Department**: New Partnerships
 * **Ownership area**: join.booking.com partner sign-up funnel
 * **Responsibilities**: Optimise partner sign-up funnel using A/B experimentation
 
-## Jumo: Software developer
+## Jumo
 
 *Sep 2015 - Sep 2016*
 
-* **Department**: Engineering
+* **Role**: Software developer
 * **Description**:
     * Mobile-money start-up providing micro-loan financing to > 5m customers in countries throughout Africa
     * White-label financial products integrated with mobile network operators
@@ -90,10 +89,11 @@ permalink: /cv/
     lifecycle progression, accounting, and internal tooling
     * DevOps and on-call rotation
 
-## Amazon.com: Software development engineer
+## Amazon.com
 
-*Jan 2012 - Sep 2015*: Software development engineer
+*Jan 2012 - Sep 2015*:
 
+* **Role**: Software development engineer
 * **Department**: Amazon Web Services (AWS) Elastic Compute Cloud (EC2)
 * **Ownership area**:
     * Primary internal web application for administrating EC2 data-centres
@@ -111,8 +111,9 @@ permalink: /cv/
     * Built-out tooling for Frankfurt region
     * Interviewer in > 80 interview loops
 
-*May 2011 - Jan 2012*: Software development engineer - testing
+*May 2011 - Jan 2012*:
 
+* **Role**: Software development engineer in testing
 * **Ownership area**:
     * Public-facing EC2 and VPC management console web applications (console.aws.amazon.com), Java libraries and
     command-line tools
@@ -134,62 +135,54 @@ permalink: /cv/
 
 ## Skills
 
-<span class="badge">People management</span>
-<span class="badge">Leadership</span>
-<span class="badge">Project management</span>
-<span class="badge">Change management</span>
-<span class="badge">Facilitation</span>
-<span class="badge">Vision-setting</span>
-<!-- -->
-<span class="badge">Cloud computing</span>
-<span class="badge">Amazon Web Services (AWS)</span>
-<span class="badge">Distributed systems</span>
-<span class="badge">Service-orientated architecture (SOA)</span>
-<span class="badge">Micro-services</span>
-<!-- -->
-<span class="badge">JavaScript</span>
-<span class="badge">React</span>
-<span class="badge">EcmaScript 6 (ES6)</span>
-<span class="badge">jQuery</span>
-<!-- -->
-<span class="badge">Ruby</span>
-<span class="badge">Ruby on Rails (RoR)</span>
-<!-- -->
-<span class="badge">Java</span>
-<!-- -->
-<span class="badge">Perl</span>
-<span class="badge">Python</span>
-<!-- -->
-<span class="badge">C++</span>
-<span class="badge">C</span>
-<!-- -->
-<span class="badge">Linux</span>
-<span class="badge">MySQL</span>
-<!-- -->
-<span class="badge">Test-driven Development (TDD)</span>
-<span class="badge">Selenium</span>
-<span class="badge">JUnit</span>
-<span class="badge">TestNG</span>
-<span class="badge">rspec</span>
-<!-- -->
-<span class="badge">Agile methodologies</span>
-<span class="badge">Jira</span>
-<span class="badge">Trello</span>
-<span class="badge">Scrum</span>
-<span class="badge">Kan-ban</span>
-<!-- -->
-<span class="badge">DevOps</span>
-<span class="badge">Extreme Programming (XP)</span>
-<span class="badge">FinTech</span>
-<span class="badge">Conversion funnel</span>
-<span class="badge">Heroku</span>
-<!-- -->
-<span class="badge">Git</span>
-<span class="badge">GitHub</span>
-<span class="badge">GitLab</span>
-<span class="badge">Excel</span>
-<span class="badge">CSS</span>
-<span class="badge">HTML</span>
+<strong>Management and leadership</strong>:
+People management,
+Project management,
+Change management,
+Servant leadership,
+Recruiting,
+Building teams,
+Vision-setting,
+Strategy,
+Roadmap,
+Planning,
+Delegation,
+Feedback,
+Coaching,
+Mentoring,
+High-performing teams,
+Performance measurement,
+Goal-setting,
+SMART goals,
+OKRs,
+KPIs,
+Multi-disciplinary teams
+Facilitation,
+Agile,
+Scrum,
+Kan-ban,
+Public-speaking,
+Professional communication
+
+<strong>Software architecture:</strong>
+Cloud computing, Amazon Web Services (AWS), EC2, VPC, Heroku, SQS, SNS,
+Elastic Beanstalk, Docker, Kubernetes, Service-orientated architecture (SOA),
+Distributed systems, Systems theory, Micro-services, Micro-frontend,
+Horizontal scaling, CloudFormation, S3, Firebase, DynamoDB
+
+<strong>Programming languages and frameworks:</strong>
+TypeScript, JavaScript, ES6, React, NestJS, Redux, jQuery,
+Ruby, Ruby on Rails, Java, Spring, Python,
+Django, Perl, PHP, C++, C, Qt, Matlab, VHDL, Assembly, HTML, CSS
+
+<strong>Software testing:</strong>
+Test-driven development, Selenium, End-to-end tests, Unit tests,
+Integration tests, API testing, Postman
+
+<strong>Miscellaneous:</strong>
+Windows, Linux, bash, Mac OS, Excel, Microsoft Project, Google Suite,
+Google Analytics, Trello, Jira, Jupyter Notebook, MySQL, SQL,
+Arduino, Raspberry Pi, VHDL, Domain-specific languages
 
 ## Education
 
@@ -206,7 +199,3 @@ permalink: /cv/
 
 * First in college (Dux medal)
 * First place for Computer science, Science and English
-
-## Hobbies and interests
-
-* Musician: bass guitar; played in bands in many genres including jazz, classical, pop and rock
