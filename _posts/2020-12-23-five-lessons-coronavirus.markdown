@@ -18,17 +18,18 @@ We owe it to ourselves to reflect on and jot down some memorable lessons that wi
 
 If business is not going well, it is a mistake to go-with-the-flow and passively hold the course, without carefully reconsidering you and your team’s position. In particular, your (and every) team’s efforts should be directed at least partially towards modifying the product or business as needed ASAP.
 
-For example, on my team at Booking, we implemented the ‘health and hygiene’ functionality which allows partners to showcase their safety measures to customers on the main checkout funnel, which has become one of partners’ most popular programs at Booking.
+For example, in my organisation at Booking, we implemented the ‘health and hygiene’ functionality which allows partners to showcase their safety measures to customers on the main checkout funnel, which has become one of partners’ most popular programs at Booking.
 
-A key principle here is to be keenly aware of and completely aligned to your company's main objectives: work on the main thing, and not the side thing. For example, my department's focus is on the core customer journey and driving growth in accommodations; therefore I worked to ensure that virtually all my teams and projects are reinforcing these objectives (and strongly challenging otherwise), in order to best position mysef and my team to weather a downturn.
+A key principle here is to be keenly aware of and completely aligned to your company's main objectives: work on the main thing, and not the side thing. For example, my department's focus is on the core customer journey and driving growth in accommodations; therefore I worked to ensure that virtually all my teams and projects are reinforcing these objectives (and strongly challenging otherwise), in order to best position my organisation to weather a downturn.
+
+Indeed several external teams pivoted temporarily of their own accord away from their original topics and towards topics owned in my area, which was generally successful both for my organisation, our ability as a company to deliver a consistent product across platforms, and for the external teams who seemed to enjoy the ability to pick a topic and add a massive impact in a limited time.
 
 ## 2. Invest during the downturn
 
-In any business, a downturn is a good time to retrospect, streamline and double-down on what is working. With relentless hypergrowth having abated, there was a moment of opportunity where the organisation as a whole had a temporary surplus of engineering capacity. If harnessed and coordinated properly, this capacity could be utilised to dramatically improve the company’s overall technical foundations.
+In any business, a downturn is a good time to retrospect, streamline and double-down on what is working. With the relentless hypergrowth having temporarily abated, a wealth of engineering capacity became available
+which could be used to dramatically improve the company’s overall technical foundations by: improving the efficiencies of (or deprecating) existing systems for cost-reduction; introducing modern technology for cheaper product development; and specific, prioritised efforts to reduce technical debt. There was a mix of long- and short-term projects. 
 
-My team and I played a key part in planning, coordinating and executing the initial stages of this major technological project, including core services and the heart of the checkout funnel, by introducing modern front-end and back-end technologies -- think something like a 20 year leap forward in technology.
-
-Beyond driving this work to implementation, my team introduced key innovations to the management of this company-wide project, through breaking work down by business domain, introducing task sizing, and defining and reporting on a high-level progress metric.
+For example, my organisation and I played a key role in planning and executing on the first stages of a long-term technology modernisation project, which will reduce costs in the long-term. At the same time, specific, prioritsed technical improvements were made on the back-end systems to greatly reduce costs immediately.
 
 ## 3. Emphasise empathy
 
@@ -54,4 +55,4 @@ It provides a natural moment of bonding as well as reflection. And failures can 
 
 As this infamous year draws to an end, I want to remind us all to take excellent care of ourselves and especially each other. Let's all get some much-needed rest over this holiday season, and return refreshed, ready and hungry for a strong recovery in 2021, building on all of the hard work and preparation that we have put into place this year.
 
-*Ronen Agranat is a senior manager at Booking.com in Amsterdam, where he leads an organisation of 25-30 people, owning pages and services at the heart of the customer journey. Prior to that, he worked at Amazon EC2 for nearly 5 years, and at some of South Africa's hottest startups. He has a degree in engineering and has been working as an industry professional for most of his life.*
+*Ronen Agranat is a manager of software development at Booking.com in Amsterdam, where he leads an organisation of ~25 people (4 product development teams + management team), at the core of the customer funnel. Do you want to help us help everyone experience the world? We are always looking for exceptional talent*
