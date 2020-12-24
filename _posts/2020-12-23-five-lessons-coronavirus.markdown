@@ -29,9 +29,9 @@ Indeed several external teams pivoted temporarily of their own accord away from 
 In any business, a downturn is a good time to retrospect, streamline and double-down on what is working. With the relentless hypergrowth having temporarily abated, a wealth of engineering capacity became available
 which could be used to dramatically improve the company’s overall technical foundations by: improving the efficiencies of (or deprecating) existing systems for cost-reduction; introducing modern technology for cheaper product development; and specific, prioritised efforts to reduce technical debt. There was a mix of long- and short-term projects. 
 
-For example, my organisation and I played a key role in planning and executing on the first stages of a long-term technology modernisation project, which will reduce costs in the long-term. At the same time, specific, prioritsed technical improvements were made on the back-end systems to greatly reduce costs immediately.
+For example, my organisation and I played a key role in planning and executing on the first stages of a long-term technology modernisation project, which will reduce costs in the long-term. At the same time, specific, prioritised technical improvements were made on the back-end systems to greatly reduce costs immediately.
 
-## 3. Emphasise empathy
+## 3. Empathy and communication
 
 Each and every person had immense challenges to overcome during this unforgiving year: whether it’s working from a small, shared apartment; taking care of young children when schools and daycare were closed; needing to visit relatives in need; or being unable to visit friends and family; not to mention the likelihood that many of us contracted COVID-19 during this year, in addition to the ergonomic challenges posed by our makeshift work-from-home offices. These myriad issues cannot but have had a real effect on everyone’s performance. They may even have led to feelings of guilt, where people feel badly about needing to work adjusted hours to care for their families, for example. In almost all cases, a healthy dose of empathy and flexibility on behalf of management were all that were needed.
 
