@@ -3,6 +3,7 @@ layout: post
 title:  "Breaking the Monolith"
 date:   2016-05-31 08:05:00 +0100
 categories: microservice architecture soa
+image: /assets/images/monolith.jpg
 ---
 
 
@@ -12,7 +13,6 @@ In this article, I’ll discuss some of the approaches and technologies we used 
 
 <!--more-->
 
-![Monolith](/assets/images/monolith.jpg)
 *Developers cautiously approach a monolithic application (2001: A Space Odyssey)*
 
 ## What makes a micro-service?

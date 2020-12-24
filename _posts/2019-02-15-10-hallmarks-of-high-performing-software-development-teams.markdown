@@ -3,6 +3,7 @@ layout: post
 title:  "10 Hallmarks of High-Performing Software Development Teams"
 date:   2019-02-15 09:00:00 +0100
 categories: management leadership people
+image: assets/images/up-to-11.jpg
 ---
 
 No two teams are the same. However, high-performing teams have many common traits. Through examining these, we as leaders may discover insights that allow us to help more teams become high-performing.

@@ -3,6 +3,7 @@ layout: post
 title:  "10 Management Tips for Effective One-on-Ones"
 date:   2019-01-28 09:00:00 +0100
 categories: management leadership people
+image: assets/images/yoda-luke.jpg
 ---
 
 *When mentoring newer managers, one of the questions I am most often asked is about how to hold effective one-on-ones. Here are 10 tips to help you make your one-on-ones more effective.*

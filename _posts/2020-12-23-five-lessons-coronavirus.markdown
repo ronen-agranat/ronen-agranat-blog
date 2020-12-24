@@ -4,6 +4,7 @@ title:  "Five lessons from Coronavirus"
 date:   2020-12-23 07:00:00 +0100
 published: true
 categories: management leadership people
+image: assets/images/coronavirus.jpg
 ---
 
 *The following article is based on my experience as a manager of software development at Booking.com during 2020* 

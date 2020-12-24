@@ -4,6 +4,7 @@ title:  "How I got serious about delegating"
 date:   2019-10-14 07:00:00 +0100
 published: true
 categories: management leadership people
+image: assets/images/delegating.png
 ---
 
 ## Introduction
