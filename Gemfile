@@ -12,7 +12,7 @@ gem "jekyll", "~> 3.8.5"
 
 # Jekyll theme
 #gem "miniscule", path: "/Users/ragranat/personal/miniscule"
-gem "miniscule", "~> 0.2.1"
+gem "miniscule", "~> 0.2.2"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
